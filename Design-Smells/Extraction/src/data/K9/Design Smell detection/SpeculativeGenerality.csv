@@ -1,0 +1,7 @@
+FullClassPath,AntiPattern
+k9mail.src.main.java.com.fsck.k9.controller.SimpleMessagingListener,SpeculativeGenerality
+k9mail.src.main.java.com.fsck.k9.controller.SimpleMessagingListener,SpeculativeGenerality
+k9mail.src.main.java.com.fsck.k9.mailstore.BinaryAttachmentBody,SpeculativeGenerality
+k9mail.src.main.java.com.fsck.k9.mailstore.BinaryAttachmentBody,SpeculativeGenerality
+k9mail.src.main.java.com.fsck.k9.activity.K9PreferenceActivity,SpeculativeGenerality
+k9mail.src.main.java.com.fsck.k9.activity.K9PreferenceActivity,SpeculativeGenerality

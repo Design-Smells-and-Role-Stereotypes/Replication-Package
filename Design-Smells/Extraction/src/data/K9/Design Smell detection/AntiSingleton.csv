@@ -1,0 +1,6 @@
+FullClassPath,AntiPattern
+k9mail.src.main.java.com.fsck.k9.mailstore.LocalStore,AntiSingleton
+k9mail-library.src.main.java.com.fsck.k9.mail.K9MailLib,AntiSingleton
+k9mail-library.src.main.java.com.fsck.k9.mail.power.TracingPowerManager,AntiSingleton
+k9mail.src.main.java.com.fsck.k9.K9,AntiSingleton
+k9mail.src.main.java.com.fsck.k9.activity.Search,AntiSingleton

@@ -1,0 +1,13 @@
+FullClassPath,AntiPattern
+k9mail.src.main.java.com.fsck.k9.message.extractors.PreviewExtractionException,LazyClass
+k9mail.src.main.java.com.fsck.k9.message.extractors.PreviewExtractionException,LazyClass
+k9mail-library.src.main.java.com.fsck.k9.mail.internet.Text,LazyClass
+k9mail-library.src.main.java.com.fsck.k9.mail.internet.Text,LazyClass
+k9mail.src.main.java.com.fsck.k9.fragment.MessageListFragmentComparators,LazyClass
+k9mail.src.main.java.com.fsck.k9.fragment.MessageListFragmentComparators,LazyClass
+k9mail-library.src.main.java.com.fsck.k9.mail.store.imap.ImapResponseParserException,LazyClass
+k9mail-library.src.main.java.com.fsck.k9.mail.store.imap.ImapResponseParserException,LazyClass
+k9mail.src.main.java.com.fsck.k9.Intents,LazyClass
+k9mail.src.main.java.com.fsck.k9.Intents,LazyClass
+k9mail-library.src.main.java.com.fsck.k9.mail.internet.Html,LazyClass
+k9mail-library.src.main.java.com.fsck.k9.mail.internet.Html,LazyClass

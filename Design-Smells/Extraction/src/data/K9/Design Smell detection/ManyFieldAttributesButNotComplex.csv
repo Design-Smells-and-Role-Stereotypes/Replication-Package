@@ -1,0 +1,7 @@
+FullClassPath,AntiPattern
+k9mail.src.main.java.com.fsck.k9.activity.FolderViewHolder,ManyFieldAttributesButNotComplex
+k9mail.src.main.java.com.fsck.k9.activity.FolderViewHolder,ManyFieldAttributesButNotComplex
+k9mail.src.main.java.com.fsck.k9.activity.FolderViewHolder,ManyFieldAttributesButNotComplex
+k9mail.src.main.java.com.fsck.k9.fragment.MessageViewHolder,ManyFieldAttributesButNotComplex
+k9mail.src.main.java.com.fsck.k9.fragment.MessageViewHolder,ManyFieldAttributesButNotComplex
+k9mail.src.main.java.com.fsck.k9.fragment.MessageViewHolder,ManyFieldAttributesButNotComplex
