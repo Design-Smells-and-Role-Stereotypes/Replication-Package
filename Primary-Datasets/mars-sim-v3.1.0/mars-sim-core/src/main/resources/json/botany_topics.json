@@ -1,0 +1,15 @@
+{
+	"subject": "Botany",
+	"topics": [
+			{"topic": "Oragnic Energy Transducers"},
+			{"topic": "Nucleic Acid & Clay"},
+			{"topic": "Proteins, Coenzymes & Histidine"},
+			{"topic": "Solar Irradiation"},
+			{"topic": "Crop Yield"},
+			{"topic": "Airborne Droplets & Irrigations"}, 
+			{"topic": "Plant Physiology"},
+			{"topic": "Martian Regolith"},
+			{"topic": "CO2 Fixations"},
+			{"topic": "Buildup of Biomass"}
+	]
+}

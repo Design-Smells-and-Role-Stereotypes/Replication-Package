@@ -1,0 +1,15 @@
+{
+	"subject": "Astronomy",
+	"topics": [
+			{"topic": "The Milky Way"},
+			{"topic": "Star Clusters"},
+			{"topic": "Planetary Nebulae"},
+			{"topic": "Interstellar Medium"},
+			{"topic": "Stellar Populations"}, 
+			{"topic": "Galactic Formation & Dynamics"},
+			{"topic": "Galactic Nuclei, Bulges, Disks, & Halo"}, 
+			{"topic": "Black Holes"}, 
+			{"topic": "Quasars"}, 
+			{"topic": "Gravitational Lens"}
+	]
+}

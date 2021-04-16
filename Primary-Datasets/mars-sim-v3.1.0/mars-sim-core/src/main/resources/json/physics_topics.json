@@ -1,0 +1,22 @@
+{
+	"subject": "Physics",
+	"topics": [
+			{"topic": "Non-linear Cyclic Processes"},
+			{"topic": "Temporal Organization"},
+			{"topic": "Dynamic Stability of Surface Structures"},
+			{"topic": "Macroscale Cycles of Matter"},	
+			{"topic": "Superpramagnetic Particles"}, 
+			{"topic": "Habitat Structural Safety & Stability"},
+			{"topic": "Symmetry Breaking of Physical Processes"}, 		
+			{"topic": "Quantum Measurement & Accuracy"}, 
+			{"topic": "Scale Invariance of SPace-time Processes"},			
+			{"topic": "Mineralogical Mapping"},
+			{"topic": "Mineralogical Distribution"},
+			{"topic": "Remote Sensing"},
+			{"topic": "Thermal Emission Spectrometer"},
+			{"topic": "Hyperspectral Spectrometer"},
+			{"topic": "Image Spectra and Spectral Angles"},			
+			{"topic": "Photogrammetry"},
+			{"topic": "Localized Gravitational Gradient"}
+	]
+}
